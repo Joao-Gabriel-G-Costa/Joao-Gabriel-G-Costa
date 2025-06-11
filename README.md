@@ -1,17 +1,21 @@
-## Hi there 👋
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-G-Costa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+### 👋 Olá! Eu sou o João Gabriel
 
-<!--
-**Joao-Gabriel-G-Costa/Joao-Gabriel-G-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gosto muito de desenvolvimento de software e sempre em busca de novos desafios
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Minhas Estatísticas no GitHub:
+
+![João Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-G-Costa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+---
+
+### 🔝 Linguagens mais usadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-G-Costa&layout=compact&theme=tokyonight)
+
+---
+
+### 💼 Conecte-se comigo:
+
+- 💻 GitHub: [Joao-Gabriel-G-Costa](https://github.com/Joao-Gabriel-G-Costa)
