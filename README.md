@@ -1,4 +1,5 @@
 ## Hi there 👋
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Gabriel-G-Costa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 <!--
 **Joao-Gabriel-G-Costa/Joao-Gabriel-G-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
