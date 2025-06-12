@@ -12,7 +12,3 @@ Gosto muito de desenvolvimento de software e sempre em busca de novos desafios
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Gabriel-G-Costa&layout=compact&theme=tokyonight)
 
-### ⏱️ Meu tempo de programação na última semana
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
